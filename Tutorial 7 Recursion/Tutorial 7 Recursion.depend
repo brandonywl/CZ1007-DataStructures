@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1584509697 source:c:\users\brandon\documents\scripts\c scripts\cz1007 redo\tutorial 7\rsumup.c
+	<stdio.h>
+
+1584510396 source:c:\users\brandon\documents\scripts\c scripts\cz1007 redo\tutorial 7\main.c
+	<stdio.h>
+
+1584510075 source:c:\users\brandon\documents\scripts\c scripts\cz1007 redo\tutorial 7\rdigitvalue.c
+	<stdio.h>
+
+1584510268 source:c:\users\brandon\documents\scripts\c scripts\cz1007 redo\tutorial 7\prediction.c
+	<stdio.h>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1584549611 source:c:\users\brandon\documents\scripts\c scripts\cz1007 redo\lab 4 arrays\findar1d.c
+	<stdio.h>
+
+1584549395 source:c:\users\brandon\documents\scripts\c scripts\cz1007 redo\lab 4 arrays\main.c
+
+1584549826 source:c:\users\brandon\documents\scripts\c scripts\cz1007 redo\lab 4 arrays\findminmax2d.c
+	<stdio.h>
+
+1584550027 source:c:\users\brandon\documents\scripts\c scripts\cz1007 redo\lab 4 arrays\diagonals2d.c
+	<stdio.h>
+

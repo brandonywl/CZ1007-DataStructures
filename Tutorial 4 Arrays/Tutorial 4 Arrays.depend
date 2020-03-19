@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1584540081 source:c:\users\brandon\documents\scripts\c scripts\cz1007 redo\tutorial 4 arrays\main.c
+
+1584539628 source:c:\users\brandon\documents\scripts\c scripts\cz1007 redo\tutorial 4 arrays\reversear1d.c
+	<stdio.h>
+
+1584540706 source:c:\users\brandon\documents\scripts\c scripts\cz1007 redo\tutorial 4 arrays\swap2rowscols2d.c
+	<stdio.h>
+
+1584541177 source:c:\users\brandon\documents\scripts\c scripts\cz1007 redo\tutorial 4 arrays\reducematrix2d.c
+	<stdio.h>
+

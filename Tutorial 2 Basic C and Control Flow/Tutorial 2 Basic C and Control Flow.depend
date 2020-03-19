@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1584509226 source:c:\users\brandon\documents\scripts\c scripts\cz1007 redo\tutorial 2 basic c and control flow\main.c
+	<stdio.h>
+
+1584508533 source:c:\users\brandon\documents\scripts\c scripts\cz1007 redo\tutorial 2 basic c and control flow\classifychar.c
+
+1584508691 source:c:\users\brandon\documents\scripts\c scripts\cz1007 redo\tutorial 2 basic c and control flow\computenetpay.c
+	<stdio.h>
+

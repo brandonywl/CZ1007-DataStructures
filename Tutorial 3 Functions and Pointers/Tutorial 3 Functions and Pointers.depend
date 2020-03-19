@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1584541442 source:c:\users\brandon\documents\scripts\c scripts\cz1007 redo\tutorial 3 functions and pointers\main.c
+
+1584541657 source:c:\users\brandon\documents\scripts\c scripts\cz1007 redo\tutorial 3 functions and pointers\digitvalue.c
+	<stdio.h>
+
+1584542038 source:c:\users\brandon\documents\scripts\c scripts\cz1007 redo\tutorial 3 functions and pointers\caldistance.c
+	<stdio.h>
+	<math.h>
+

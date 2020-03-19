@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1584551434 source:c:\users\brandon\documents\scripts\c scripts\cz1007 redo\lab 2 basic c and control flow\computegrade.c
+	<stdio.h>
+
+1584550944 source:c:\users\brandon\documents\scripts\c scripts\cz1007 redo\lab 2 basic c and control flow\main.c
+
+1584551728 source:c:\users\brandon\documents\scripts\c scripts\cz1007 redo\lab 2 basic c and control flow\printaverage.c
+	<stdio.h>
+

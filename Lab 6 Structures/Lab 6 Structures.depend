@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1584544631 source:c:\users\brandon\documents\scripts\c scripts\cz1007 redo\lab 6 structures\computeexp.c
+	<stdio.h>
+
+1584544244 source:c:\users\brandon\documents\scripts\c scripts\cz1007 redo\lab 6 structures\main.c
+
+1584545996 source:c:\users\brandon\documents\scripts\c scripts\cz1007 redo\lab 6 structures\employee.c
+	<stdio.h>
+	<string.h>
+

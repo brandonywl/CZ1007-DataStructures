@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1584536725 source:c:\users\brandon\documents\scripts\c scripts\cz1007 redo\tutorial 5 character strings\main.c
+	<stdio.h>
+	<string.h>
+
+1584535692 source:c:\users\brandon\documents\scripts\c scripts\cz1007 redo\tutorial 5 character strings\processstring.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
+1584536267 source:c:\users\brandon\documents\scripts\c scripts\cz1007 redo\tutorial 5 character strings\stringncpy.c
+	<stdio.h>
+	<string.h>
+

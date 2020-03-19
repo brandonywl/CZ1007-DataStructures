@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1584532998 source:c:\users\brandon\documents\scripts\c scripts\cz1007 redo\computecircle\computecircle.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1584534928 source:c:\users\brandon\documents\scripts\c scripts\cz1007 redo\computecircle\main.c
+	<stdio.h>
+
+1584533243 source:c:\users\brandon\documents\scripts\c scripts\cz1007 redo\computecircle\computeaverage.c
+	<stdio.h>
+	<string.h>
+
+1584533990 source:c:\users\brandon\documents\scripts\c scripts\cz1007 redo\computecircle\book.c
+	<stdio.h>
+
