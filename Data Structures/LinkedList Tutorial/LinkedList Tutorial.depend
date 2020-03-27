@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1585235725 source:c:\users\brandon\documents\scripts\c scripts\cz1007\c programming\linkedlist tutorial\main.c
+	"stdlib.h"
+	"stdio.h"
+
+1585281852 source:c:\users\brandon\documents\scripts\c scripts\cz1007\c programming\linkedlist tutorial\question 2.c
+	<stdlib.h>
+	<stdio.h>
+

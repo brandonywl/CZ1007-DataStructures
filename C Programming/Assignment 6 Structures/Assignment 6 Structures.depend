@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1584613057 source:c:\users\brandon\documents\scripts\c scripts\cz1007 redo\assignment 6 structures\main.c
+
+1584614152 source:c:\users\brandon\documents\scripts\c scripts\cz1007 redo\assignment 6 structures\findmiddleage.c
+	<stdio.h>
+
+1584614536 source:c:\users\brandon\documents\scripts\c scripts\cz1007 redo\assignment 6 structures\complexnumber.c
+	<stdio.h>
+	<math.h>
+
+1584619867 source:c:\users\brandon\documents\scripts\c scripts\cz1007 redo\assignment 6 structures\rectangle.c
+	<stdio.h>
+	<math.h>
+
+1584621871 source:c:\users\brandon\documents\scripts\c scripts\cz1007 redo\assignment 6 structures\student.c
+	<stdio.h>
+	<string.h>
+
+1584620922 source:c:\users\brandon\documents\scripts\c scripts\cz1007 redo\assignment 6 structures\encodechar.c
+	<stdio.h>
+	<string.h>
+
+1584623772 source:c:\users\brandon\documents\scripts\c scripts\cz1007 redo\assignment 6 structures\employee.c
+	<stdio.h>
+	<string.h>
+
+1584622620 source:c:\users\brandon\documents\scripts\c scripts\cz1007 redo\assignment 6 structures\customer.c
+	<stdio.h>
+	<string.h>
+

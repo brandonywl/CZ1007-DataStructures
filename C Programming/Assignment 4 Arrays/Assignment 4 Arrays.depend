@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1584628882 source:c:\users\brandon\documents\scripts\c scripts\cz1007\c programming\assignment 4 arrays\absolutesum1d.c
+	<stdio.h>
+	<math.h>
+
+1584628746 source:c:\users\brandon\documents\scripts\c scripts\cz1007\c programming\assignment 4 arrays\main.c
+
+1584629150 source:c:\users\brandon\documents\scripts\c scripts\cz1007\c programming\assignment 4 arrays\find2max1d.c
+	<stdio.h>
+
+1584629315 source:c:\users\brandon\documents\scripts\c scripts\cz1007\c programming\assignment 4 arrays\findminmax1d.c
+	<stdio.h>
+
+1584629656 source:c:\users\brandon\documents\scripts\c scripts\cz1007\c programming\assignment 4 arrays\specialnumbers1d.c
+	<stdio.h>
+
+1584629906 source:c:\users\brandon\documents\scripts\c scripts\cz1007\c programming\assignment 4 arrays\platform1d.c
+	<stdio.h>
+
+1584630176 source:c:\users\brandon\documents\scripts\c scripts\cz1007\c programming\assignment 4 arrays\swapminmax1d.c
+	<stdio.h>
+
+1584630450 source:c:\users\brandon\documents\scripts\c scripts\cz1007\c programming\assignment 4 arrays\findaverage2d.c
+	<stdio.h>
+
+1584630649 source:c:\users\brandon\documents\scripts\c scripts\cz1007\c programming\assignment 4 arrays\computetotal2d.c
+	<stdio.h>
+
+1584630975 source:c:\users\brandon\documents\scripts\c scripts\cz1007\c programming\assignment 4 arrays\transpose2d.c
+	<stdio.h>
+
+1584631201 source:c:\users\brandon\documents\scripts\c scripts\cz1007\c programming\assignment 4 arrays\symmetry2d.c
+	<stdio.h>
+
+1584632209 source:c:\users\brandon\documents\scripts\c scripts\cz1007\c programming\assignment 4 arrays\compress2d.c
+	<stdio.h>
+
+1584632505 source:c:\users\brandon\documents\scripts\c scripts\cz1007\c programming\assignment 4 arrays\minmax2d.c
+	<stdio.h>
+

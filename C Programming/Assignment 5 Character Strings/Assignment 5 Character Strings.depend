@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1584624347 source:c:\users\brandon\documents\scripts\c scripts\cz1007\c programming\assignment 5 character strings\insertchar.c
+	<stdio.h>
+	<string.h>
+
+1584624521 source:c:\users\brandon\documents\scripts\c scripts\cz1007\c programming\assignment 5 character strings\main.c
+
+1584624519 source:c:\users\brandon\documents\scripts\c scripts\cz1007\c programming\assignment 5 character strings\locatefirstchar.c
+	<stdio.h>
+	<string.h>
+
+1584625049 source:c:\users\brandon\documents\scripts\c scripts\cz1007\c programming\assignment 5 character strings\longwordlength.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
+1584625332 source:c:\users\brandon\documents\scripts\c scripts\cz1007\c programming\assignment 5 character strings\countwords.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
+1584625714 source:c:\users\brandon\documents\scripts\c scripts\cz1007\c programming\assignment 5 character strings\ciphertext.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
+1584626124 source:c:\users\brandon\documents\scripts\c scripts\cz1007\c programming\assignment 5 character strings\longeststrinar.c
+	<stdio.h>
+	<string.h>
+
+1584627048 source:c:\users\brandon\documents\scripts\c scripts\cz1007\c programming\assignment 5 character strings\findminmaxstr.c
+	<stdio.h>
+	<string.h>
+
+1584627488 source:c:\users\brandon\documents\scripts\c scripts\cz1007\c programming\assignment 5 character strings\maxchartofront.c
+	<stdio.h>
+	<string.h>
+
+1584627925 source:c:\users\brandon\documents\scripts\c scripts\cz1007\c programming\assignment 5 character strings\strintersect.c
+	<stdio.h>
+
+1584628407 source:c:\users\brandon\documents\scripts\c scripts\cz1007\c programming\assignment 5 character strings\findsubstring.c
+	<stdio.h>
+	<string.h>
+
+1584628690 source:c:\users\brandon\documents\scripts\c scripts\cz1007\c programming\assignment 5 character strings\countsubstring.c
+	<stdio.h>
+	<string.h>
+

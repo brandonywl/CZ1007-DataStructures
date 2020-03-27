@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Assignment 4 Arrays" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Assignment 4 Arrays" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Assignment 4 Arrays" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="absoluteSum1D.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="compress2D.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="computeTotal2D.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="find2Max1D.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="findAverage2D.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="findMinMax1D.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="minMax2D.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="platform1D.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="specialNumbers1D.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="swapMinMax1D.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="symmetry2D.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="transpose2D.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

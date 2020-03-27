@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1584598402 source:c:\users\brandon\documents\scripts\c scripts\cz1007 redo\assignment 7 recursion\main.c
+
+1584599178 source:c:\users\brandon\documents\scripts\c scripts\cz1007 redo\assignment 7 recursion\rage.c
+	<stdio.h>
+
+1584598402 source:c:\users\brandon\documents\scripts\c scripts\cz1007\c programming\assignment 7 recursion\main.c
+
+1584611416 source:c:\users\brandon\documents\scripts\c scripts\cz1007\c programming\assignment 7 recursion\rage.c
+	<stdio.h>
+
+1584611367 source:c:\users\brandon\documents\scripts\c scripts\cz1007\c programming\assignment 7 recursion\rallevendigits.c
+	<stdio.h>
+
+1584611374 source:c:\users\brandon\documents\scripts\c scripts\cz1007\c programming\assignment 7 recursion\rcountevendigits.c
+	<stdio.h>
+
+1584611381 source:c:\users\brandon\documents\scripts\c scripts\cz1007\c programming\assignment 7 recursion\rcountzero.c
+	<stdio.h>
+
+1584612231 source:c:\users\brandon\documents\scripts\c scripts\cz1007\c programming\assignment 7 recursion\rfindmaxar.c
+	<stdio.h>
+
+1584612456 source:c:\users\brandon\documents\scripts\c scripts\cz1007\c programming\assignment 7 recursion\rlookupar.c
+	<stdio.h>
+
+1584612949 source:c:\users\brandon\documents\scripts\c scripts\cz1007\c programming\assignment 7 recursion\rreversear.c
+	<stdio.h>
+
+1584611638 source:c:\users\brandon\documents\scripts\c scripts\cz1007\c programming\assignment 7 recursion\rstrcmp.c
+	<stdio.h>
+	<string.h>
+
+1584611352 source:c:\users\brandon\documents\scripts\c scripts\cz1007\c programming\assignment 7 recursion\rstrlen.c
+	<stdio.h>
+	<string.h>
+
+1584611400 source:c:\users\brandon\documents\scripts\c scripts\cz1007\c programming\assignment 7 recursion\rgcd.c
+	<stdio.h>
+
+1584611390 source:c:\users\brandon\documents\scripts\c scripts\cz1007\c programming\assignment 7 recursion\rpower.c
+	<stdio.h>
+
